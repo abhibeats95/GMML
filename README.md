@@ -4,3 +4,5 @@ GMML pretext based techniques for training computer vision models in a self-supe
 
 PAPER: https://arxiv.org/abs/2205.14986#:~:text=Vision%20transformers%20have%20generated%20significant,known%20to%20be%20data%20hungry.
 
+
+![reconstration picture at 200 epoch (1)](https://user-images.githubusercontent.com/47521742/180667714-c70d2e2f-1ec9-4cb5-92c9-00f3b0393a11.jpg)
